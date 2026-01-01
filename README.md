@@ -41,4 +41,5 @@ This project focuses on building a home lab to simulate a corporate Security Ope
 
 ---
 ### 📄 Full Report
-For a deep dive into the detection logic and architecture, please read the full [Threat Detection Report.pdf](Threat Detection & Endpoint Monitoring Report.pdf) included in this repository.
+For a deep dive into the detection logic and architecture, please read the full PDF report included in this repository:
+👉 [Threat Detection & Endpoint Monitoring Report.pdf](Threat%20Detection%20%26%20Endpoint%20Monitoring%20Report.pdf)
